@@ -20,7 +20,7 @@ MCP, handle streaming responses, and display final answers once all tool calls a
 
 ```
 .
-├── chat_loop.py      # Main script (the code in this repository)
+├── llm-tool.py      # Main script (the code in this repository)
 └── README.md         # You are here
 ```
 
@@ -152,7 +152,7 @@ Betik, asenkron olarak çalışan bir sohbet oluşturur; asistan MCP’nin sundu
 
 ```
 .
-├── chat_loop.py   # Ana betik
+├── llm-tool.py   # Ana betik
 └── README.md      # Bu dosya
 ```
 
