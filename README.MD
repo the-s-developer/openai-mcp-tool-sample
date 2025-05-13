@@ -34,7 +34,7 @@ MCP, handle streaming responses, and display final answers once all tool calls a
 Install dependencies:
 
 ```bash
-pip install openai mcp-client streamablehttp
+pip install openai mcp
 ```
 
 *(If your MCP client lives in a different package name, adjust accordingly.)*
@@ -166,7 +166,7 @@ Betik, asenkron olarak çalışan bir sohbet oluşturur; asistan MCP’nin sundu
 Kurulum:
 
 ```bash
-pip install openai mcp-client streamablehttp
+pip install openai mcp
 ```
 
 ### Yerel MCP Sunucusunu Başlatma (Playwright sürümü)
